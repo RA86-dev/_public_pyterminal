@@ -2,7 +2,7 @@
 
 Hello! This update is a combination of multiple updates such as:
 
-1.5.3-Crop Update
+1.7.5
 
 ## Requirements
 
