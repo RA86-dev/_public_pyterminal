@@ -1,10 +1,12 @@
-# Python Terminal 1.7.5 README
+# Python Terminal 1.7.6 README
 
-Hello! This update is a combination of multiple updates such as:
 
-1.7.5
+
+1.7.6
 
 ## Requirements
+
+** **
 
 1. **Operating System:** Linux - Ubuntu 16.04 to 17.10, or Windows 7 to 10, with 2GB RAM (4GB preferable).
 
@@ -98,6 +100,7 @@ Congrats! The codes are listed below along with the file to download.
 - `searchCrop`:Searches a crop via the openfarm API.
 - `searchArtChicago`:Searches Chicago Institute Of Art.
 - `pymov`: A file creator
+- `yolo_detect8m`: Detects using YOLOv8 to identify the 80 objects the YOLO can identify.
 
 ### Credits
 
@@ -113,12 +116,13 @@ I used these API's and programs in this program.
 - haarcascades - Face Tracker (Internal OpenCV Python Library)
 - openfarm API - Crop API ([URL](https://openfarm.cc))
 - Chicago Institute Of Art - Art API:([URL](https://api.artic.edu/docs/#quick-start))
+- YOLO v8 Neural Network - ([URL](https://docs.ultralytics.com/))
 
 ## Credits For Libraries
 
 Uses:
 
-time, math, urllib.request, os, webbrowser, platform, hashlib, random, getpass, string, subprocess, speedtest, art, http.server, cv2, bcrypt, json, socketserver, matplotlib.pyplot, threading, PIL.Image, io, curses, googletrans, urllib.parse, webbrowser, colorama, requests, subprocess, base64, wave, getpass, numpy, io.BytesIO, http.server.SimpleHTTPRequestHandler, selenium, moviepy, and imageio.
+time, math, urllib.request, os, webbrowser, platform, hashlib, random, getpass, string, subprocess, speedtest, art, http.server, cv2, bcrypt, json, socketserver, matplotlib.pyplot, threading, PIL.Image, io, curses, googletrans, urllib.parse, webbrowser, colorama, requests, subprocess, base64, wave, getpass, numpy, io.BytesIO, http.server.SimpleHTTPRequestHandler, selenium, moviepy, imageio, and ultralytics.
 
 **THIS PROGRAM USES ALL OF THESE LIBRARIES. Thank You!**
 
